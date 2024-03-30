@@ -1,0 +1,19 @@
+
+.side-list:hover{
+    background-color: rgb(12, 12, 88) !important;
+}
+a{
+    text-decoration: none !important;
+}
+
+.cutive-regular {
+    font-family: "Cutive", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.arrow {
+    padding: 2px;
+    font-size: small !important;
+}
+  
